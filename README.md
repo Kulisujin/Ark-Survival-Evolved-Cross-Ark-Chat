@@ -5,11 +5,11 @@ Before you start, ensure you have the following prerequisites:
 A system running Windows (the program is written in C# and intended for Windows use).
 The ARK server must have been ran at least twice for the files to be created.
 Server Admin Logs must be enabled.
-  In ASM, this option is "Enable Server Admin Logs" under Administration
+  In ASM, this option is "Enable Server Admin Logs" under Administration.
 The network Local IP must be manually entered.
-  In ASM, this option is "Local IP" under Administration
+  In ASM, this option is "Local IP" under Administration.
 RCOM must be enabled.
-  In ASM, this option is "Enable RCON" under Administration
+  In ASM, this option is "Enable RCON" under Administration.
 
 Usage
 Start the ARK: Cross-Ark Chat program.
