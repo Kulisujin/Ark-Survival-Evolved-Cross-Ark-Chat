@@ -35,7 +35,7 @@ Download the program.
 Extract the downloaded archive to your preferred location.
 
 Configuration
-Run the ARK: Survival Evolved Cross-Ark Chat Logger application.
+Start the ARK: Cross-Ark Chat program.
 
 Configure your settings, including Discord integration and server settings.
 
