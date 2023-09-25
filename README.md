@@ -11,10 +11,10 @@ Server Admin Logs must be enabled.
 The network Local IP must be manually entered.  
   In ASM, this option is "Local IP" under Administration.  
   
-RCOM must be enabled.  
+RCON must be enabled.  
   In ASM, this option is "Enable RCON" under Administration.  
 
-.
+‎
   
 Usage  
 
