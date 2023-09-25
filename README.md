@@ -14,7 +14,7 @@ The network Local IP must be manually entered.
 RCOM must be enabled.  
   In ASM, this option is "Enable RCON" under Administration.  
 
-
+.
   
 Usage  
 
