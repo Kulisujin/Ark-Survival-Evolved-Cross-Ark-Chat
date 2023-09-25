@@ -1,6 +1,4 @@
 # Ark-Survival-Evolved-Cross-Ark-Chat
-Cross-Server Ark: Survival Evolved Chat
-
 The program is for server administration for the game ARK: Survival Evolved. Here's an overview of what this program does:
 
 Log Parsing: It monitors log files for ARK game servers. When new lines are added to the log files, it parses those lines.
