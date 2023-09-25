@@ -20,8 +20,8 @@ The server directory is the base directory of the server files.
 Check the checkbox in the "Enabled" column to start monitoring the server for chat messages.
   Messages from one enabled server will be sent to all of the other enabled servers.
 The map tag will be how the application will show other servers which server the source came from.
-For example, I've entered VAL in the field for my Valguero map, and the chat message sent to other servers will look like the following:
-[VAL] Kris (Kuli): hello world!
+  For example, I've entered VAL in the field for my Valguero map, and the chat message sent to other servers will look like the following:
+  [VAL] Kris (Kuli): hello world!
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
