@@ -56,6 +56,7 @@ If Discord integration is enabled under the Discord settings, it will send the m
   ![image](https://github.com/Kulisujin/Ark-Survival-Evolved-Cross-Ark-Chat/assets/58023791/117ec912-876e-4d8a-b83f-f012b1d36789)
       
 Admins
+
   To use admin commands or Discord ping an admin from in-game, add the admins to the admin list in the Discord settings.
   
   ![image](https://github.com/Kulisujin/Ark-Survival-Evolved-Cross-Ark-Chat/assets/58023791/1f4bbe6c-8219-44c2-87b7-d2b0323643a0)
