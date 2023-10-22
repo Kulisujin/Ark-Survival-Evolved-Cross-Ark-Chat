@@ -54,6 +54,8 @@ If Discord integration is enabled under the Discord settings, it will send the m
 
   You will need to create a Discord bot with "bot" scope and "Read Messages/View Channels" bot permission.
   
+  Note: You may want to also want to enable "commands" for the bot permissions for a future release.
+  
   The created token will need to be entered into the Discord Bot Token field in the settings.
   
   The bot will need the channel ID of the channel of which we're looking to monitor.
