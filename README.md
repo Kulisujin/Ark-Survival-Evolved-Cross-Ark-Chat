@@ -21,6 +21,10 @@ Start the ARK: Cross-Ark Chat program.
 
 Enter the map tag, server directory information and optional Discord information.  
 
+The map tag will be how the application will show recipients which server the source came from.  
+  For example, I've entered VAL in the field for my Valguero map, and the chat message sent to other servers will look like the following:  
+  [VAL] Kris (Kuli): hello world!  
+
 The server directory is the base directory of the server files.  
   In ASM, this is the "Installation Location" at the top of the application with the profile information.  
     You can copy the path from the window that "Open Server Installation Folder" button opens.  
@@ -47,7 +51,12 @@ If Discord integration is enabled under the Discord settings, it will send the m
   ![image](https://github.com/Kulisujin/Ark-Survival-Evolved-Cross-Ark-Chat/assets/58023791/472c086a-ff0e-4617-a52c-516a071b6312)
     
   For messages in Discord to be sent to the maps, enabling the Discord bot is required.
-    The bot will only need the channel ID of the channel of which we're looking to monitor.
+
+  You will need to create a Discord bot with "bot" scope and "Read Messages/View Channels" bot permission.
+  
+  The created token will need to be entered into the Discord Bot Token field in the settings.
+  
+  The bot will need the channel ID of the channel of which we're looking to monitor.
     
   ![image](https://github.com/Kulisujin/Ark-Survival-Evolved-Cross-Ark-Chat/assets/58023791/577f0541-28f6-4896-9e40-96aca3be6d86)
       
@@ -82,11 +91,6 @@ CUSTOM COMMAND(s):
   @bot (mapTag) whitelistremove (steamID)
 
   These commands will return the list of IDs or add/remove a steamID to the whitelist. NOTE: the server must restart to apply the change.
-
-The map tag will be how the application will show recipients which server the source came from.  
-  For example, I've entered VAL in the field for my Valguero map, and the chat message sent to other servers will look like the following:  
-  [VAL] Kris (Kuli): hello world!  
-
   
 License  
 This project is licensed under the MIT License - see the LICENSE file for details.  
