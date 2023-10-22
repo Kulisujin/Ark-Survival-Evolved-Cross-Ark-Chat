@@ -70,14 +70,18 @@ Admins
   Admins added to this list will then be allowed to send server commands if the admin channel ID is filled.
   Commands will only work in the channel designated by the Admin Channel ID field, and only the users entered in the admin list.
   To send a command to a map, tag the bot, then include the map tag, then the command to do.
+  
   ![image](https://github.com/Kulisujin/Ark-Survival-Evolved-Cross-Ark-Chat/assets/58023791/237aab41-5fd1-456d-96ce-e2e58e55fa40)
   
 CUSTOM COMMAND(s):
+
   @bot (mapTag) whitelistview
+  
   @bot (mapTag) whitelistadd (steamID)
+  
   @bot (mapTag) whitelistremove (steamID)
 
-  These commands will return the list of IDs or add/remove a steamID to the whitelist.
+  These commands will return the list of IDs or add/remove a steamID to the whitelist. NOTE: the server must restart to apply the change.
 
 The map tag will be how the application will show recipients which server the source came from.  
   For example, I've entered VAL in the field for my Valguero map, and the chat message sent to other servers will look like the following:  
