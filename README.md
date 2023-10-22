@@ -34,15 +34,15 @@ If Discord integration is enabled under the Discord settings, it will send the m
   
   ![image](https://github.com/Kulisujin/Ark-Survival-Evolved-Cross-Ark-Chat/assets/58023791/577f0541-28f6-4896-9e40-96aca3be6d86)
     
-    Click edit, then integrations
+  Click edit, then integrations
     
   ![image](https://github.com/Kulisujin/Ark-Survival-Evolved-Cross-Ark-Chat/assets/58023791/aebf9080-5554-419e-9ad3-7ad05cdbb0b1)
     
-    Under webhooks, either create one or edit an existing one
+  Under webhooks, either create one or edit an existing one
     
   ![image](https://github.com/Kulisujin/Ark-Survival-Evolved-Cross-Ark-Chat/assets/58023791/7f5b4512-dbb6-4e5f-a6ee-41057ccac2ee)
     
-    Press the Copy Webhook Url button, and paste into the appropriate Discord webhook field
+  Press the Copy Webhook Url button, and paste into the appropriate Discord webhook field
     
   ![image](https://github.com/Kulisujin/Ark-Survival-Evolved-Cross-Ark-Chat/assets/58023791/472c086a-ff0e-4617-a52c-516a071b6312)
     
@@ -51,7 +51,7 @@ If Discord integration is enabled under the Discord settings, it will send the m
     
   ![image](https://github.com/Kulisujin/Ark-Survival-Evolved-Cross-Ark-Chat/assets/58023791/577f0541-28f6-4896-9e40-96aca3be6d86)
       
-    Discord messages will only be sent to the enabled servers if the message sender "@'s" the bot
+  Discord messages will only be sent to the enabled servers if the message sender "@'s" the bot
     
   ![image](https://github.com/Kulisujin/Ark-Survival-Evolved-Cross-Ark-Chat/assets/58023791/117ec912-876e-4d8a-b83f-f012b1d36789)
       
